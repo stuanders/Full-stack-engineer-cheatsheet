@@ -1,0 +1,149 @@
+header {
+  background-color: #2B414F;
+  margin: auto;
+  width: 100%;
+  max-height: 400px;
+  box-sizing: border-box;  
+}
+
+body {
+  background-color: #fff;
+}
+
+h1 {
+  background-color: #2B414F;
+  text-align: center;
+  font-family: 'Hubballi', cursive;
+  font-size: 80px;
+  letter-spacing: 2px;
+  color: #fff;
+  margin: 0;
+  padding: 75px;
+}
+
+.list {
+  border: 5px solid #2B414F;
+  width: 200px;
+  height: 200px
+  opacity: 0.95;
+  position: fixed;
+  z-index: 1;
+  margin: 10px auto;
+  background-color: #fff;
+  color: #000;
+}
+
+li {
+  line-height: 40px;
+  font-size: 20px;
+  font-family: 'Hubballi', cursive;
+  font-weight: 700; 
+}
+a:link {
+  color: #000;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #2B414F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: #d48744;
+}
+
+li:hover {
+  color: #d48744;
+}
+
+#subject {
+  color: #d48744;
+  background-color: #fff;
+  font-family: 'Hubballi', cursive;
+  margin: 5px 0px;
+  text-align: left;
+  letter-spacing: 2px;
+  font-weight: 700;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Hubballi', cursive;
+  font-size: 40px;
+  width: 100%;
+  color: #fff;
+  margin: 100px auto 10px;
+  background-color: #2B414F;
+}
+
+.html {
+  border: 3px solid #2B414F;
+  width: 65%;
+  position: relative;
+  margin: 0px auto;
+  background-color: #fff;
+  text-align: left;
+  line-height: 30px;
+  font-family: 'Hubballi', cursive;
+  font-size: 18px;
+  font-weight: 700; 
+}
+
+.css {
+  border: 3px solid #0A2238;
+  width: 65%;
+  position: relative;
+  margin: 0px auto;
+  background-color: #fff;
+  text-align: left;
+  line-height: 30px;
+  font-family: 'Hubballi', cursive;
+  font-size: 18px;
+  font-weight: 700; 
+}
+
+.javascript {
+  border: 3px solid #2B414F;
+  width: 65%;
+  position: relative;
+  margin: 0px auto;
+  background-color: #fff;
+  text-align: left;
+  line-height: 30px;
+  font-family: 'Hubballi', cursive;
+  font-size: 18px;
+  font-weight: 700; 
+}
+
+.websites {
+  border: 3px solid #0A2238;
+  width: 65%;
+  position: relative;
+  margin: 0px auto;
+  background-color: #fff;
+  text-align: left;
+  line-height: 30px;
+  font-family: 'Hubballi', cursive;
+  font-size: 18px;
+  font-weight: 700; 
+}
+
+th {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 900;
+}
+
+button {
+  margin: 0 auto;
+  width: 100%;
+  background-color: #2B414F;
+  color: #fff;
+}
+
+button:hover{
+  background-color: #d48744;
+  border-color: #fff;
+}
